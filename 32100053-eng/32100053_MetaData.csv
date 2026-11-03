@@ -1,0 +1,273 @@
+﻿"Cube Title","Product Id","CANSIM Id",URL,"Cube Notes","Archive Status",Frequency,"Start Reference Period","End Reference Period","Total number of dimensions"
+"Supply and disposition of food in Canada","32100053","002-0010","https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=3210005301",,"CURRENT - a cube available to the public and that is current","Annual","1960-01-01","2025-01-01","3",
+
+"Dimension ID","Dimension name","Dimension Notes","Dimension Definitions"
+"1","Geography",,""
+"2","Commodity",,""
+"3","Supply and disposition",28,""
+
+"Dimension ID","Member Name","Classification Code","Member ID","Parent Member ID",Terminated,"Member Notes","Member Definitions"
+"1","Canada","[11124]","1","","",14,
+"2","Wheat flour","","1","","",19,
+"2","Rye flour","","2","","",19,
+"2","Oatmeal and rolled oats","","3","","",19,
+"2","Pot and pearl barley","","4","","",19,
+"2","Corn flour and meal","","5","","",19,
+"2","Rice","","6","","",19,
+"2","Breakfast food","","7","","",,
+"2","Sugar refined","","8","","",,
+"2","Maple sugar","","9","","",,
+"2","Honey","","10","","",,
+"2","Dry beans","","11","","",,
+"2","Baked and canned beans","","12","","",,
+"2","Dry peas","","13","","",,
+"2","Peanuts","","14","","",,
+"2","Tree nuts","","15","","",,
+"2","Tea","","16","","",,
+"2","Coffee","","17","","",,
+"2","Cocoa","","18","","",,
+"2","Ale, beer, stout and porter","","19","","",17,
+"2","Distilled spirits","","20","","",15;17;20,
+"2","Wines","","21","","",16;17,
+"2","Ciders, coolers and other refreshment beverages","","193","","",17;23,
+"2","Soft drinks","","22","","",,
+"2","Bottled water","","23","","",,
+"2","Cheddar cheese","","24","","",,
+"2","Processed cheese","","25","","",,
+"2","Specialty cheese","","26","","",30,
+"2","Cottage cheese","","27","","",,
+"2","Powder skim milk","","28","","",,
+"2","Powder buttermilk","","29","","",,
+"2","Powder whey","","30","","",,
+"2","Other whole milk products","","31","","",,
+"2","Concentrated whole milk","","33","","",,
+"2","Sweetened concentrated whole milk","","34","","",,
+"2","Concentrated skim milk","","35","","",,
+"2","Sweetened concentrated skim milk","","36","","",,
+"2","Milkshake","","37","","",,
+"2","Ice cream","","38","","",,
+"2","Sherbet","","39","","",,
+"2","Ice milk","","40","","",,
+"2","Standard milk 3.25%","","41","","",26,
+"2","Buttermilk","","42","","",26,
+"2","Partly skimmed milk 2%","","43","","",26,
+"2","Partly skimmed milk 1%","","44","","",26,
+"2","Skim milk","","45","","",26,
+"2","Chocolate and other flavoured milk","","46","","",25;26,
+"2","Cereal cream 10%","","47","","",26,
+"2","Table cream 18%","","48","","",26,
+"2","Whipping cream 32% or 35%","","49","","",26,
+"2","Sour cream","","50","","",26,
+"2","Yogurt","","51","","",,
+"2","Chicken","","53","","",,
+"2","Stewing hen","","54","","",,
+"2","Chicken and stewing hen total","","186","","",,
+"2","Turkey","","55","","",,
+"2","Eggs","","56","","",,
+"2","Pork","","57","","",28,
+"2","Beef","","58","","",28,
+"2","Veal","","59","","",28,
+"2","Beef and veal total","","187","","",28,
+"2","Mutton and lamb","","60","","",28,
+"2","Offal","","61","","",28,
+"2","Butter","","52","","",,
+"2","Margarine","","62","","",,
+"2","Salad oils","","63","","",,
+"2","Shortening and shortening oils","","64","","",,
+"2","Apples fresh","","65","","",,
+"2","Apples canned","","66","","",,
+"2","Apples dried","","67","","",,
+"2","Apples frozen","","68","","t",,
+"2","Apple juice","","69","","",,
+"2","Apple pie filling","","70","","t",,
+"2","Apple sauce","","71","","",,
+"2","Apricots fresh","","72","","",,
+"2","Apricots canned","","73","","",,
+"2","Avocados fresh","","74","","",,
+"2","Bananas fresh","","75","","",,
+"2","Berries other fresh","","76","","",18,
+"2","Blueberries fresh","","77","","",19,
+"2","Blueberries canned","","78","","",,
+"2","Blueberries frozen","","79","","",,
+"2","Cherries fresh","","80","","",,
+"2","Cherries frozen","","81","","",,
+"2","Coconut fresh","","82","","",,
+"2","Cranberries fresh","","83","","",,
+"2","Dates fresh","","84","","",,
+"2","Figs fresh","","85","","",,
+"2","Grapes fresh","","86","","",,
+"2","Grape juice","","87","","",,
+"2","Guavas and mangoes fresh","","88","","",19,
+"2","Kiwis fresh","","89","","",19,
+"2","Melons, musk and cantaloupes fresh","","90","","",19,
+"2","Other fresh melons","","91","","",19,
+"2","Watermelons fresh","","92","","",19,
+"2","Wintermelons fresh","","93","","",19,
+"2","Melons total fresh","","94","","",1,
+"2","Nectarines fresh","","95","","",,
+"2","Papayas fresh","","96","","",19,
+"2","Peaches fresh","","97","","",19,
+"2","Peaches canned","","98","","",,
+"2","Pears fresh","","99","","",19,
+"2","Pears canned","","100","","",,
+"2","Pineapples fresh","","101","","",,
+"2","Pineapples canned","","102","","",,
+"2","Pineapple juice","","103","","",,
+"2","Plums total fresh","","104","","",,
+"2","Quinces fresh","","105","","",,
+"2","Raspberries frozen","","106","","",,
+"2","Strawberries fresh","","107","","",,
+"2","Strawberries canned","","108","","",,
+"2","Strawberries frozen","","109","","",,
+"2","Fruits not specified fresh","","110","","",,
+"2","Fruits not specified canned","","111","","",,
+"2","Fruits not specified dried","","112","","",3,
+"2","Fruits not specified frozen","","113","","",,
+"2","Oranges fresh","","114","","",4;21,
+"2","Orange juice","","115","","",,
+"2","Lemons fresh","","116","","",,
+"2","Lemon juice","","117","","",,
+"2","Grapefruits fresh","","118","","",21,
+"2","Grapefruit juice","","119","","",,
+"2","Limes fresh","","120","","",,
+"2","Mandarins fresh","","121","","",19;21,
+"2","Other citrus fresh","","122","","",21,
+"2","Artichokes fresh","","123","","",19,
+"2","Asparagus fresh","","124","","",,
+"2","Asparagus canned","","125","","",,
+"2","Beans green and wax fresh","","126","","",,
+"2","Beans green and wax canned","","127","","",,
+"2","Beans green and wax frozen","","128","","",,
+"2","Beets fresh","","129","","",19,
+"2","Beets canned","","130","","",,
+"2","Broccoli fresh","","131","","",29,
+"2","Broccoli frozen","","132","","",5,
+"2","Brussels sprouts fresh","","133","","",,
+"2","Brussels sprouts frozen","","134","","",,
+"2","Cabbage fresh","","135","","",,
+"2","Chinese cabbage fresh","","136","","",6,
+"2","Kale fresh","","194","","",27,
+"2","Carrots fresh","","137","","",,
+"2","Carrots canned","","138","","",,
+"2","Carrots frozen","","139","","",,
+"2","Cauliflower fresh","","140","","",29,
+"2","Cauliflower frozen","","141","","t",,
+"2","Celery fresh","","142","","",,
+"2","Corn fresh","","143","","",,
+"2","Corn canned","","144","","",,
+"2","Corn frozen","","145","","",,
+"2","Cucumbers fresh","","146","","",,
+"2","Other edible roots fresh","","147","","",19,
+"2","Eggplants fresh","","148","","",19,
+"2","Garlic fresh","","149","","",19,
+"2","Kohlrabi fresh","","150","","t",19,
+"2","Leeks fresh","","151","","",,
+"2","Other leguminous vegetables fresh","","152","","",,
+"2","Lettuce fresh","","153","","",,
+"2","Lima beans frozen","","154","","t",,
+"2","Manioc fresh","","155","","",,
+"2","Mushrooms fresh","","156","","",,
+"2","Mushrooms canned","","157","","",,
+"2","Okra fresh","","158","","",,
+"2","Olives fresh","","159","","",,
+"2","Onions and shallots fresh","","160","","",,
+"2","Parsley fresh","","161","","",,
+"2","Parsnips fresh","","162","","",19,
+"2","Peas fresh","","163","","",19,
+"2","Peas canned","","164","","",,
+"2","Peas frozen","","165","","",,
+"2","Peppers fresh","","166","","",,
+"2","Potatoes sweet fresh","","167","","",19,
+"2","Potatoes chips","","188","","",24,
+"2","Potatoes frozen","","189","","",24,
+"2","Potatoes other processed","","190","","",24,
+"2","Potatoes total processed","","191","","",24,
+"2","Potatoes white fresh and processed","","168","","",7;9,
+"2","Potatoes white fresh","","192","","",9,
+"2","Pumpkins and squash fresh","","169","","",19,
+"2","Radishes fresh","","170","","",19,
+"2","Rappini fresh","","171","","",19,
+"2","Rutabagas and turnip fresh","","172","","",,
+"2","Spinach fresh","","173","","",,
+"2","Spinach frozen","","174","","",,
+"2","Tomatoes fresh","","175","","",,
+"2","Tomatoes canned","","176","","",,
+"2","Tomato juice","","177","","",,
+"2","Tomatoes, pulp, paste and puree","","178","","",,
+"2","Vegetables not specified fresh","","179","","",10,
+"2","Vegetables not specified canned","","180","","",,
+"2","Vegetables not specified frozen","","181","","",,
+"2","Fresh and frozen sea fish","","182","","",11,
+"2","Processed sea fish","","183","","",11,
+"2","Total shellfish","","184","","",11,
+"2","Freshwater fish","","185","","",11;22,
+"3","Total supply","","2","","",,
+"3","Beginning stocks","","3","2","",,
+"3","Production","","4","2","",,
+"3","Imports","","5","2","",,
+"3","Total disposition","","11","","",,
+"3","Domestic disappearance","","1","11","",,
+"3","Exports","","7","11","",,
+"3","Manufacturing","","8","11","",,
+"3","Waste","","9","11","",,
+"3","Ending stocks","","10","","",,
+
+Symbol Legend
+Description,Symbol
+"not available for a specific reference period","..",
+"less than the limit of detection","<LOD",
+"value rounded to 0 (zero) where there is a meaningful distinction between true zero and the value that was rounded","0s",
+"data quality: excellent","A",
+"data quality: very good","B",
+"data quality: good","C",
+"data quality: acceptable","D",
+"use with caution","E",
+"too unreliable to be published","F",
+"not applicable","...",
+"preliminary","p",
+"revised","r",
+"suppressed to meet the confidentiality requirements of the Statistics Act","x",
+"terminated","t",
+
+"Survey Code","Survey Name"
+"3403","Monthly Miller's Survey"
+"3407","Fruits and Vegetables Survey"
+"3423","Quarterly Stocks of Frozen and Chilled Meats Survey"
+"3430","Dairy Factory Production and Stocks Survey"
+"3460","Livestock Survey"
+"3475","Food Availability (per person)"
+
+"Subject Code","Subject Name"
+"32","Agriculture and food"
+
+"Note ID",Note
+1,""Melons total fresh" include "melons, musk and cantaloupes fresh", "other fresh melons", " watermelons fresh", and "wintermelons fresh"."
+3,""Fruits not specified dried" include dried currants, raisins, prunes, plums and dried fruits and berries not elsewhere specified."
+4,""Oranges fresh" include mandarins, clementines, tangerines, wilkings and similar citrus fruits."
+5,"Import data for "broccoli frozen" includes cauliflower."
+6,""Chinese cabbage fresh" is included in "cabbage fresh".  "
+7,"Import and export data for "potatoes white" processed products have been converted to fresh."
+9,"As of 2006, waste data for "potatoes white" includes cullage and animal feed and potatoes used for seed."
+10,"As of 2006, "Vegetables not specified fresh" include chicory, cress, bamboo shoots, truffles, and fresh or chilled vegetables not elsewhere specified."
+11,"Data are expressed in edible weight."
+14,"Exports include re-exports."
+15,"Prior to 2006, "distilled spirits" included spirits coolers, premixed cocktails, and mixers."
+16,"Prior to 2006, "wines" included ciders and wine coolers."
+17,"Alcohol data are reported for the April to March fiscal year."
+18,""Berries other fresh" Includes raspberries, loganberries, mulberries, blackberries, currants, gooseberries, and saskatoon berries."
+19,"Starting  with reference year 2015, waste factors have been revised back to 2006."
+20,"The units of measurement for imports and exports are "litres of pure alcohol"."
+21,"Export data for fresh citrus, "grapefruit, orange, mandarin, and other citrus" has been moved to processed (dried) fruit, beginning in 2006."
+22,"Import data includes new freshwater fish items since 2012."
+23,"As of 2006, a category for ciders, coolers, and other refreshment beverages was created."
+24,"As of 2006, import and export data for processed potato products are represented as processed values. Prior to 2006, the data was converted to fresh equivalent."
+25,"Prior to 2017, "Chocolate and other flavoured milk" was known as "Chocolate drink"."
+26,"Production data excludes Newfoundland and Labrador for certain dairy products."
+27,"As of 2018, "kale fresh" is included in "cabbage fresh"."
+28,"Revised data on red meat supply and disposition for 2018 and 2019 was released August 20, 2020."
+29,"Prior to 2022, import data for "cauliflower fresh" included headed broccoli."
+30,"The English label for this commodity has been revised from “Variety cheese” to “Specialty cheese”, to align with the Dairy Statistics program. The French label remains unchanged."
+
+"Correction ID","Correction Date","Correction Note"
+"2352","2021-07-28","On July 28, 2021, estimates for supply and disposition of food in Canada for the year 2020 were revised for maple sugar.",
+
